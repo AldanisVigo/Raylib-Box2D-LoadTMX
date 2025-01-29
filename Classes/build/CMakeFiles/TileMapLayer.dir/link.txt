@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libTileMapLayer.a CMakeFiles/TileMapLayer.dir/src/TileMapLayer.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libTileMapLayer.a

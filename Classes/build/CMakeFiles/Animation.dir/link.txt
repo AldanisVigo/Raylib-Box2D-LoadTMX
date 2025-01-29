@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libAnimation.a CMakeFiles/Animation.dir/src/Animation.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libAnimation.a

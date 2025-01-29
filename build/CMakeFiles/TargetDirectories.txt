@@ -1,0 +1,3 @@
+/Users/vigobeatz/Documents/C/Game/build/CMakeFiles/main.dir
+/Users/vigobeatz/Documents/C/Game/build/CMakeFiles/edit_cache.dir
+/Users/vigobeatz/Documents/C/Game/build/CMakeFiles/rebuild_cache.dir
