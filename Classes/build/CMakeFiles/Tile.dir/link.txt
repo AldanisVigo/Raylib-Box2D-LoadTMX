@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libTile.a CMakeFiles/Tile.dir/src/Tile.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libTile.a

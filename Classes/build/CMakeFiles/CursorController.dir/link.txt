@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libCursorController.a CMakeFiles/CursorController.dir/src/CursorController.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libCursorController.a

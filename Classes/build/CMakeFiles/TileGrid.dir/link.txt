@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libTileGrid.a CMakeFiles/TileGrid.dir/src/TileGrid.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libTileGrid.a

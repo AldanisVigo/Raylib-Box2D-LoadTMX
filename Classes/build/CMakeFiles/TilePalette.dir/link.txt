@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libTilePalette.a CMakeFiles/TilePalette.dir/src/TilePalette.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libTilePalette.a

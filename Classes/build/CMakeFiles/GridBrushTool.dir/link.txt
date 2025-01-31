@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libGridBrushTool.a CMakeFiles/GridBrushTool.dir/src/GridBrushTool.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libGridBrushTool.a
